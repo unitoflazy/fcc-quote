@@ -71,6 +71,10 @@
     margin-left: 5px;
 }
 
+h6 {
+    text-align: center;
+}
+
 button:hover {
     background-color: white;
 }

@@ -138,6 +138,8 @@ class App extends React.Component {
 
         </div>
 
+        <h6>Made by unitoflazy</h6>
+
       </div>
     )
   }
